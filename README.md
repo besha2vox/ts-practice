@@ -5,8 +5,8 @@
 * [lesson 2](#lesson-2) "Типи";
 * [lesson 3](#lesson-3) "Налаштування компілятора";
 * [lesson 4](#lesson-4) "Класси";
-<!-- * [lesson 5](#lesson-5) "Advanced Types/Generics";
-* [lesson 6](#lesson-6) "Декоратори";
+* [lesson 5](#lesson-5) "Advanced Types/Generics";
+<!-- * [lesson 6](#lesson-6) "Декоратори";
 * [lesson 7](#lesson-7) "TypeScript і React";
 * [lesson 8](#lesson-8) "TypeScript і NodeJs". -->
 
